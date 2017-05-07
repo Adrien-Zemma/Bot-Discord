@@ -5,6 +5,7 @@ import toml as toml2
 import pytoml as toml
 
 from key import key as get_key
+from key import serveur_num as serveur_num
 
 client   = discord.Client()
 
@@ -67,7 +68,7 @@ async def on_ready():
     print(client.user.id)
     print('------')
 
-    s = client.get_server('296727226572079118')
+    s = client.get_server(serveur_num())
     tab = []
     list_role = []
     for role in s.roles:
