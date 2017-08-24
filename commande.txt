@@ -1,0 +1,92 @@
+#Commande Bot Red'Art
+
+Ajout d'un bot mini-jeux L'EnderBot
+
+
+>help
+Affiche cette page (genius) (Alias : >h)
+
+>helphere
+
+Affiche la page d'aide sur un channel textuel (Alias : >hh)
+
+>info
+
+Affiche toutess les informations à propos du bot
+
+Les Commandes De Jeux
+
+>inventory
+
+Consultez votre compte et toutes vos riches !
+
+
+>ville
+[ville] [attack/def] [golems]
+Convertissez votre stone en golems de guerre, ratio 1:1 ; convertion iréversible
+
+>mine
+
+Minez et gagnez des ressources, peut-être la chance et la fortune vous sourrira... ;)
+
+
+>mineall
+Pour ceux qui veulent miner beaucoup mais qui ont un peu la flemme :p)
+
+>hourly
+
+Gagnez des ressources bonus chaque heure
+
+
+>patchnote
+Lisez l'historique de mes differentes versions
+
+
+>give
+Donnez vos ressources à d'autres joueurs ! Utilisation :
+>give @JohnSmith#0000 stone 42
+>top
+
+>top
+
+Affiche le top des meilleurs joueurs, 10 de base, 50 maximum et s'adapte en fonction du nombre demandé
+
+Autre commandes
+
+
+>ping
+
+USAGE: !ping
+
+
+>repete
+Repete votre message (tout simplement)
+
+
+>master
+
+Je te dis si t'es mon maître ou pas :p
+
+
+>mp
+
+Je t'envoie un petit MP <3
+
+
+>choix <Choix_1> <Choix_2>
+
+Je choisis aléatoirement entre deux choix
+
+
+>issou
+Envoie
+ une image ISSOU random !
+
+
+>guilde
+
+Rejoignez le serveur de la grande communauté EnderBot !
+
+
+>invite
+Obtenez mon lien d'invitation <3
